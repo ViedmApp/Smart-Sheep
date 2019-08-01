@@ -1,7 +1,7 @@
 # Smart-Sheep
 Desarrollo de un software para el manejo de la ganadería ovina
 
-Creadores
+Desarrolladores
 
     ViedmApp:
     

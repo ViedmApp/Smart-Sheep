@@ -1,9 +1,11 @@
 # Smart-Sheep
 Desarrollo de un software para el manejo de la ganadería ovina
 
-Empresa a cargo: ViedmApp
-Integrantes: 
--Benjamín Lazo L.
--Paula Mancilla A.
--Mathias Oyarzún A.
--Eduardo Vera B.
+Authors
+
+    ViedmApp:
+    
+        Benjamín Lazo L. - mWrathion
+        Paula Mancilla A. - Pauleera
+        Mathías Oyarzún A. - moyarzun94
+        Eduardo Vera B. - eduvera

@@ -1,0 +1,617 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+	 id="svg2" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" inkscape:export-ydpi="300" inkscape:export-xdpi="300" inkscape:export-filename="/home/ateo/MEGAsync/UACh/Asignaturas/HCI/HCI_2018/Proyecto_IngSW/2018_Canvas_HCI_PrimeraEntrega.png" sodipodi:docname="2018_Canvas_HCI_PrimeraEntrega.svg" inkscape:version="0.91 r13725"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="2104.725px"
+	 height="2979.921px" viewBox="0 0 2104.725 2979.921" enable-background="new 0 0 2104.725 2979.921" xml:space="preserve">
+<defs>
+	
+	<inkscape:path-effect  is_visible="true" id="path-effect6802" effect="spiro"></inkscape:path-effect>
+	<inkscape:path-effect  is_visible="true" id="path-effect6798" effect="spiro"></inkscape:path-effect>
+</defs>
+<sodipodi:namedview  showguides="false" showgrid="false" inkscape:cy="1899.0218" inkscape:cx="685.22576" inkscape:zoom="0.1767767" borderopacity="1.0" bordercolor="#666666" pagecolor="#ffffff" id="base" inkscape:document-units="px" inkscape:pageshadow="2" inkscape:pageopacity="0.0" inkscape:guide-bbox="true" inkscape:window-maximized="1" inkscape:window-y="24" inkscape:window-x="65" inkscape:window-height="1056" inkscape:window-width="1855" inkscape:current-layer="layer1">
+	<sodipodi:guide  position="44.446712,2735.4931" orientation="1,0" id="guide5905"></sodipodi:guide>
+	<sodipodi:guide  position="856.60936,2484.9753" orientation="1,0" id="guide5907"></sodipodi:guide>
+	<sodipodi:guide  position="1020.2541,2618.3154" orientation="1,0" id="guide5909"></sodipodi:guide>
+	<sodipodi:guide  position="1507.1476,2695.087" orientation="1,0" id="guide5911"></sodipodi:guide>
+	<sodipodi:guide  position="1709.1781,2715.29" orientation="1,0" id="guide5913"></sodipodi:guide>
+	<sodipodi:guide  position="-65.714286,2631.4286" orientation="0,1" id="guide5999"></sodipodi:guide>
+	<sodipodi:guide  position="2091.6218,1318.047" orientation="1,0" id="guide4529"></sodipodi:guide>
+</sodipodi:namedview>
+<g id="layer1" transform="translate(0,1927.5594)" inkscape:label="Layer 1" inkscape:groupmode="layer">
+	<rect id="rect6130" x="1341.081" y="-1379.755" fill="none" width="729.646" height="243.545"/>
+	<text transform="matrix(1 0 0 1 12.3862 -1477.558)" fill="#0000FF" font-family="'Arial-BoldMT'" font-size="72">NECESIDAD</text>
+	<text transform="matrix(1 0 0 1 12.3862 -533.2933)" fill="#16628D" font-family="'Arial-BoldMT'" font-size="72">DISEÑO</text>
+	<text transform="matrix(1 0 0 1 40.4717 -1726.6049)" fill="#555555" font-family="'ArialMT'" font-size="48">PRESENTACIÓN</text>
+	
+		<text transform="matrix(1.2339 0 0 1 25.582 -1687.2572)" fill="#555555" font-family="'ArialMT'" font-size="24" letter-spacing="61.593"> </text>
+	<text transform="matrix(1 0 0 1 38.583 -1380.9135)" fill="#555555" font-family="'ArialMT'" font-size="48">STAKEHOLDERS</text>
+	<text transform="matrix(1 0 0 1 840.3706 -1380.9135)" fill="#555555" font-family="'ArialMT'" font-size="48">USUARIOS</text>
+	<text transform="matrix(1 0 0 1 844.165 -1006.4701)" fill="#555555" font-family="'ArialMT'" font-size="48">TAREAS</text>
+	<text transform="matrix(1 0 0 1 1515.3789 -1006.2064)" fill="#555555" font-family="'ArialMT'" font-size="48">AMBIENTE</text>
+	<text transform="matrix(1 0 0 1 49.252 -439.0126)" fill="#555555" font-family="'ArialMT'" font-size="48">ENFOQUE</text>
+	<text transform="matrix(1 0 0 1 35.9434 -192.6908)" fill="#555555" font-family="'ArialMT'" font-size="48">INTERFACES Y TRANSICIONES</text>
+	<text transform="matrix(1 0 0 1 12.3862 -1823.1127)" fill="#0088FF" font-family="'Arial-BoldMT'" font-size="72">HCI CANVAS - Proyecto Smart Sheep</text>
+	<text transform="matrix(1 0 0 1 1679.415 -1731.2845)" fill="#555555" font-family="'ArialMT'" font-size="48">EQUIPO</text>
+	<rect id="rect3211" x="1652.604" y="-1786.472" fill="none" stroke="#0088FF" stroke-width="10" width="439.73" height="207.405"/>
+	<g id="flowRoot4002" transform="translate(-161.90246,-1924.5064)">
+	</g>
+	<g id="flowRoot4002-7" transform="translate(1477.781,-1924.4784)">
+	</g>
+	<text transform="matrix(1 0 0 1 1041.6846 -1730.4213)" fill="#555555" font-family="'ArialMT'" font-size="48">ALCANCE Y VERSIÓN</text>
+	<g id="flowRoot4002-7-6" transform="translate(835.85144,-1924.4784)">
+	</g>
+	<g id="flowRoot4002-3" transform="translate(-164.78357,-1562.4114)">
+	</g>
+	<g id="flowRoot4214">
+	</g>
+	<g id="flowRoot4002-3-0" transform="translate(638.37527,-1562.6994)">
+	</g>
+	<g id="g5649" transform="translate(333.42857,-616.57142)">
+		<g id="flowRoot4002-3-0-9" transform="translate(803.97912,-962.23333)">
+		</g>
+		<g id="g5546" transform="translate(10.285714,25.334365)">
+			<path fill="#555555" d="M-0.702,0"/>
+			<path id="path4739" fill="none" stroke="#000000" d="M1280.172-720.507v-18.08"/>
+			<path id="path4739_1_" fill="none" stroke="#000000" d="M1692.315-720.507v-18.08"/>
+			<path id="path4564" inkscape:connector-curvature="0" fill="none" stroke="#000000" d="M1692.315-729.547"/>
+			<g id="flowRoot4002-3-0-9-3" transform="translate(1034.8764,-987.73909)">
+			</g>
+			<g id="flowRoot4002-3-0-9-3-1" transform="translate(1447.6055,-985.39909)">
+			</g>
+		</g>
+	</g>
+	<g id="g5666" transform="translate(333.42857,-621.97138)">
+		<g id="flowRoot4002-3-0-9-8" transform="translate(804.32674,-878.68322)">
+		</g>
+		<g id="g5546-9" transform="translate(10.285714,108.88448)">
+			<path fill="none" stroke="#000000" d="M-0.702,0"/>
+			<path id="path4739_2_" fill="none" stroke="#000000" d="M1280.172-720.508v-18.08"/>
+			<path id="path4739_3_" fill="none" stroke="#000000" d="M1692.315-720.508v-18.08"/>
+			<path id="path4564-1" inkscape:connector-curvature="0" fill="none" stroke="#000000" d="M1692.315-729.548"/>
+			<g id="flowRoot4002-3-0-9-3-4" transform="translate(1034.8764,-987.73909)">
+			</g>
+			<g id="flowRoot4002-3-0-9-3-1-7" transform="translate(1447.6055,-985.39909)">
+			</g>
+		</g>
+	</g>
+	<g id="g5683" transform="translate(333.42857,-616.57138)">
+		<g id="flowRoot4002-3-0-9-8-8" transform="translate(803.61874,-805.93298)">
+		</g>
+		<g id="g5546-8" transform="translate(10.285714,181.63472)">
+			<path fill="none" stroke="#000000" d="M-0.702,0"/>
+			<path id="path4739_4_" fill="none" stroke="#000000" d="M1280.172-720.508v-18.08"/>
+			<path id="path4739_5_" fill="none" stroke="#000000" d="M1692.315-720.508v-18.08"/>
+			<path id="path4564-6" inkscape:connector-curvature="0" fill="none" stroke="#000000" d="M1692.315-729.548"/>
+			<g id="flowRoot4002-3-0-9-3-9" transform="translate(1034.8764,-987.73909)">
+			</g>
+			<g id="flowRoot4002-3-0-9-3-1-76" transform="translate(1447.6055,-985.39909)">
+			</g>
+		</g>
+	</g>
+	<rect id="rect5699" x="1623.887" y="-1328.495" fill="#0000FF" stroke="#888888" width="196.274" height="14.285"/>
+	<rect id="rect5699-2" x="1732.161" y="-1251.352" fill="#0000FF" width="286.34" height="14.286"/>
+	<rect id="rect5699-2-1" x="1825.661" y="-1172.781" fill="#0000FF" width="194.923" height="14.286"/>
+	<g id="flowRoot4002-3-0-94" transform="translate(638.37527,-1203.3095)">
+	</g>
+	<g id="flowRoot4002-3-0-94-3" transform="translate(1309.7252,-1203.0455)">
+	</g>
+	<g id="flowRoot5868">
+	</g>
+	
+		<rect id="rect3211-7" x="1498.318" y="-1063.445" fill="none" stroke="#0000FF" stroke-width="10" width="594.021" height="422.476"/>
+	<rect id="rect5915" x="15.462" y="-1786.472" fill="none" stroke="#0088FF" stroke-width="10" width="950.553" height="207.405"/>
+	<rect id="rect5917" x="999.033" y="-1786.472" fill="none" stroke="#0088FF" stroke-width="10" width="625.158" height="207.405"/>
+	<rect id="rect5919" x="15.462" y="-1449.16" fill="none" stroke="#0000FF" stroke-width="10" width="765.359" height="808.187"/>
+	<rect id="rect5921" x="809.747" y="-1449.16" fill="none" stroke="#0000FF" stroke-width="10" width="1282.588" height="356.758"/>
+	<rect id="rect5923" x="812.604" y="-1063.445" fill="none" stroke="#0000FF" stroke-width="10" width="645.444" height="422.476"/>
+	<rect id="rect5943" x="15.462" y="-258.044" fill="none" stroke="#16628D" stroke-width="10" width="2075.731" height="1249.443"/>
+	<g id="flowRoot4002-3-0-94-3-5" transform="translate(-132.67066,-640.15696)">
+	</g>
+	<rect id="rect6028" x="15.462" y="-503.445" fill="none" stroke="#16628D" stroke-width="10" width="2074.733" height="206.965"/>
+	<g id="flowRoot4002-3-0-94-3-5-1" transform="translate(-120.16288,-387.85283)">
+	</g>
+	<g id="flowRoot4002-3-0-94-3-5-1-2" transform="translate(-86.543761,-127.21523)">
+	</g>
+	<g id="flowRoot4002-3-0-94-3-5-1-2-2" transform="translate(789.57351,-343.30653)">
+	</g>
+	<g id="flowRoot4002-3-0-94-3-5-1-2-2-2" transform="translate(982.9229,567.02837)">
+	</g>
+	<text transform="matrix(1 0 0 1 1679.415 -1687.2572)" fill="#555555" font-family="'ArialMT'" font-size="24">Paula Mancilla</text>
+	<text transform="matrix(1 0 0 1 1679.415 -1658.4584)" fill="#555555" font-family="'ArialMT'" font-size="24">Mathias Oyarzún</text>
+	<text transform="matrix(1 0 0 1 1679.415 -1629.6576)" fill="#555555" font-family="'ArialMT'" font-size="24">Benjamín Lazo</text>
+	<text transform="matrix(1 0 0 1 1679.415 -1600.8588)" fill="#555555" font-family="'ArialMT'" font-size="24">Eduardo Vera</text>
+	<text transform="matrix(1 0 0 1 40.4717 -1320.3529)" font-family="'Arial-BoldMT'" font-size="24">Cliente, usuario y dueño</text>
+	<text transform="matrix(1 0 0 1 40.4717 -1291.5541)" fill="#555555" font-family="'ArialMT'" font-size="24">    Le interesa tener control actualizado de la productividad de su</text>
+	<text transform="matrix(1 0 0 1 40.4717 -1262.7533)" fill="#555555" font-family="'ArialMT'" font-size="24">predio.</text>
+	<text transform="matrix(1 0 0 1 40.4717 -1205.1537)" font-family="'Arial-BoldMT'" font-size="24">Rosita Calo, usuaria, Administradora </text>
+	<text transform="matrix(1 0 0 1 468.5698 -1205.1537)" fill="#555555" font-family="'Arial-BoldMT'" font-size="24">  </text>
+	<text transform="matrix(1 0 0 1 481.9058 -1205.1537)" fill="#555555" font-family="'ArialMT'" font-size="24">  </text>
+	<text transform="matrix(1 0 0 1 40.4717 -1176.3529)" fill="#555555" font-family="'ArialMT'" font-size="24">Le interesa tener control de la información del predio que administra.</text>
+	<text transform="matrix(1 0 0 1 40.4717 -1118.7533)" font-family="'Arial-BoldMT'" font-size="24">Eduardo Ramirez, usuario, Trabajador  </text>
+	<text transform="matrix(1 0 0 1 40.4717 -1089.9525)" fill="#555555" font-family="'ArialMT'" font-size="24">    Le interesa visualizar información de los ovejas.</text>
+	<text transform="matrix(1 0 0 1 40.4717 -1032.3529)" font-family="'Arial-BoldMT'" font-size="24">Claudia Letelier, usuario,  Veterinaria en diversos campos</text>
+	<text transform="matrix(1 0 0 1 40.4717 -1003.5541)" fill="#555555" font-family="'ArialMT'" font-size="24">    Le interesa tener la información a la vista cuando se encuentre en</text>
+	<text transform="matrix(1 0 0 1 40.4717 -974.7533)" fill="#555555" font-family="'ArialMT'" font-size="24">terreno con las ovejas así como poder añadir información en el</text>
+	<text transform="matrix(1 0 0 1 40.4717 -945.9525)" fill="#555555" font-family="'ArialMT'" font-size="24">momento.</text>
+	<text transform="matrix(1 0 0 1 40.4717 -888.3529)" font-family="'Arial-BoldMT'" font-size="24">Benjamin Lazo, Project owner del proyecto</text>
+	<text transform="matrix(1 0 0 1 40.4717 -859.5541)" fill="#555555" font-family="'ArialMT'" font-size="24">    Mantiene conversación y conoce el proceso de trabajo en un </text>
+	<text transform="matrix(1 0 0 1 40.4717 -830.7533)" fill="#555555" font-family="'ArialMT'" font-size="24">predio</text>
+	
+		<text transform="matrix(1 0 0 1 822.3706 -1320.3529)" fill="#555555" font-family="'ArialMT'" font-size="24" letter-spacing="27"> </text>
+	<text transform="matrix(1 0 0 1 858.3706 -1320.3529)" fill="#555555" font-family="'ArialMT'" font-size="24">Trabajadores no tienen experiencia con</text>
+	<text transform="matrix(1 0 0 1 822.3706 -1291.5541)" fill="#555555" font-family="'ArialMT'" font-size="24">dispositivos móviles y se encargan de mover</text>
+	<text transform="matrix(1 0 0 1 822.3706 -1262.7533)" fill="#555555" font-family="'ArialMT'" font-size="24">el rebaño, Veterinario tienen experiencia con</text>
+	<text transform="matrix(1 0 0 1 822.3706 -1233.9525)" fill="#555555" font-family="'ArialMT'" font-size="24">sistemas informáticos y conocen a fondo como</text>
+	<text transform="matrix(1 0 0 1 822.3706 -1205.1537)" fill="#555555" font-family="'ArialMT'" font-size="24">se administran los predios. Administrador maneja</text>
+	<text transform="matrix(1 0 0 1 822.3706 -1176.3529)" fill="#555555" font-family="'ArialMT'" font-size="24">el predio en su totalidad y tiene experiencia en </text>
+	<text transform="matrix(1 0 0 1 822.3706 -1147.5541)" fill="#555555" font-family="'ArialMT'" font-size="24">el uso de computadoras.</text>
+	<text transform="matrix(1 0 0 1 1371.1611 -1338.099)" font-family="'ArialMT'" font-size="24">EXPERIENCIA</text>
+	<text transform="matrix(1 0 0 1 1371.1611 -1309.3002)" font-family="'ArialMT'" font-size="24">COMPUTACIONAL</text>
+	<text transform="matrix(1 0 0 1 1371.1611 -1251.7006)" font-family="'ArialMT'" font-size="24">DOMINIO DEL</text>
+	<text transform="matrix(1 0 0 1 1371.1611 -1222.8998)" font-family="'ArialMT'" font-size="24">SISTEMA ACTUAL</text>
+	<text transform="matrix(1 0 0 1 1371.1611 -1165.3002)" font-family="'ArialMT'" font-size="24">CONOCIMIENTO</text>
+	<text transform="matrix(1 0 0 1 1371.1611 -1136.4994)" font-family="'ArialMT'" font-size="24">DEL NEGOCIO</text>
+	<text transform="matrix(1 0 0 1 844.165 -946.4701)" fill="#555555" font-family="'ArialMT'" font-size="24">- Ver registros de las ovejas</text>
+	<text transform="matrix(1 0 0 1 844.165 -917.6713)" fill="#555555" font-family="'ArialMT'" font-size="24">- Puede agregar registros de ovejas</text>
+	<text transform="matrix(1 0 0 1 844.165 -888.8705)" fill="#555555" font-family="'ArialMT'" font-size="24">- Puede editar los registros.</text>
+	<text transform="matrix(1 0 0 1 844.165 -860.0717)" fill="#555555" font-family="'ArialMT'" font-size="24">- Puede analizar su predio en términos generales</text>
+	<text transform="matrix(1 0 0 1 1515.3789 -954.2064)" fill="#555555" font-family="'ArialMT'" font-size="24">El trabajador está constantemente moviendo las</text>
+	<text transform="matrix(1 0 0 1 1515.3789 -925.4076)" fill="#555555" font-family="'ArialMT'" font-size="24">ovejas en el campo. El veterinario trabaja </text>
+	<text transform="matrix(1 0 0 1 1515.3789 -896.6068)" fill="#555555" font-family="'ArialMT'" font-size="24">mayoritariamente en un galpón, de pie o sentado, </text>
+	<text transform="matrix(1 0 0 1 1515.3789 -867.808)" fill="#555555" font-family="'ArialMT'" font-size="24">revisando el ganado y haciendo controles de salud. </text>
+	<text transform="matrix(1 0 0 1 1515.3789 -839.0072)" fill="#555555" font-family="'ArialMT'" font-size="24">El administrador trabaja desde su oficina en su casa</text>
+	<text transform="matrix(1 0 0 1 1515.3789 -810.2064)" fill="#555555" font-family="'ArialMT'" font-size="24"> ubicada en el predio, pocas veces acompaña al </text>
+	<text transform="matrix(1 0 0 1 1515.3789 -781.4076)" fill="#555555" font-family="'ArialMT'" font-size="24">veterinario en su labor donde ocuparía la aplicación.</text>
+	<text transform="matrix(1 0 0 1 49.252 -399.9623)" fill="#555555" font-family="'ArialMT'" font-size="24">Enfoque: La interfaz está pensada principalmente para su uso con el dedo pulgar. Tiene 3 pantallas principales, una de login, de información del predio y de información de las ovejas.</text>
+	<text transform="matrix(1.1693 0 0 1 1599.3369 -1347.9154)" fill="#555555" font-family="'ArialMT'" font-size="23.9071">bajo</text>
+	<text transform="matrix(1.1693 0 0 1 1599.3369 -1270.7816)" fill="#555555" font-family="'ArialMT'" font-size="23.9071">bajo</text>
+	<text transform="matrix(1.1693 0 0 1 1599.3369 -1190.9213)" fill="#555555" font-family="'ArialMT'" font-size="23.9071">bajo</text>
+	<text transform="matrix(1.1693 0 0 1 2012.7861 -1347.9154)" fill="#555555" font-family="'ArialMT'" font-size="23.9071">alto</text>
+	<text transform="matrix(1.1693 0 0 1 2012.7861 -1270.7816)" fill="#555555" font-family="'ArialMT'" font-size="23.9071">alto</text>
+	<text transform="matrix(1.1693 0 0 1 2013.7861 -1190.9213)" fill="#555555" font-family="'ArialMT'" font-size="23.9071">alto</text>
+	
+		<image overflow="visible" enable-background="new    " width="459" height="824" xlink:href="E8A12111.jpg"  transform="matrix(0.5161 0 0 0.5161 1747.1553 507.8073)">
+	</image>
+	
+		<image overflow="visible" enable-background="new    " width="423" height="813" xlink:href="E8A12113.jpg"  transform="matrix(0.6655 0 0 0.6655 1679.0068 -168.5726)">
+	</image>
+	
+		<image overflow="visible" enable-background="new    " width="425" height="791" xlink:href="E8A12116.jpg"  transform="matrix(0.9582 0 0 0.9582 61.2983 148.4508)">
+	</image>
+	
+		<image overflow="visible" enable-background="new    " width="416" height="801" xlink:href="E8A12117.jpg"  transform="matrix(0.6193 0 0 0.6193 495.043 171.1862)">
+	</image>
+	
+		<image overflow="visible" enable-background="new    " width="438" height="831" xlink:href="E8A12112.jpg"  transform="matrix(0.6244 0 0 0.6244 1473.9004 414.0768)">
+	</image>
+	<path fill="none" stroke="#16628D" stroke-width="10" d="M1468.232-37.529"/>
+	<path fill="none" stroke="#16628D" stroke-width="10" d="M829.264-37.529"/>
+	<path fill="none" stroke="#16628D" stroke-width="10" d="M1468.232,118.464"/>
+	<path fill="none" stroke="#16628D" stroke-width="10" d="M1468.232-37.529"/>
+	<path fill="none" stroke="#16628D" stroke-width="10" d="M829.264,118.464"/>
+	<path fill="none" stroke="#16628D" stroke-width="10" d="M1468.232,118.464"/>
+	<path fill="none" stroke="#16628D" stroke-width="10" d="M829.264-37.529"/>
+	<path fill="none" stroke="#16628D" stroke-width="10" d="M829.264,118.464"/>
+	<rect x="1018.484" y="-9.027" fill="none" width="660.931" height="203.99"/>
+	<text transform="matrix(1 0 0 1 1018.4844 8.1569)" font-family="'Arial-BoldMT'" font-size="24">Menú lateral.</text>
+	<text transform="matrix(1 0 0 1 1018.4844 36.9567)" fill="#555555" font-family="'ArialMT'" font-size="24">Se</text>
+	<text transform="matrix(1 0 0 1 1047.8394 36.9567)" fill="#555555" font-family="'ArialMT'" font-size="24"> </text>
+	<text transform="matrix(1 0 0 1 1053.7588 36.9567)" fill="#555555" font-family="'ArialMT'" font-size="24">muestra</text>
+	<text transform="matrix(1 0 0 1 1140.4551 36.9567)" fill="#555555" font-family="'ArialMT'" font-size="24"> </text>
+	<text transform="matrix(1 0 0 1 1146.374 36.9567)" fill="#555555" font-family="'ArialMT'" font-size="24">la</text>
+	<text transform="matrix(1 0 0 1 1165.0537 36.9567)" fill="#555555" font-family="'ArialMT'" font-size="24"> </text>
+	<text transform="matrix(1 0 0 1 1170.9736 36.9567)" fill="#555555" font-family="'ArialMT'" font-size="24">información</text>
+	<text transform="matrix(1 0 0 1 1295.0283 36.9567)" fill="#555555" font-family="'ArialMT'" font-size="24"> </text>
+	<text transform="matrix(1 0 0 1 1300.9482 36.9567)" fill="#555555" font-family="'ArialMT'" font-size="24">del</text>
+	<text transform="matrix(1 0 0 1 1332.9756 36.9567)" fill="#555555" font-family="'ArialMT'" font-size="24"> </text>
+	<text transform="matrix(1 0 0 1 1338.8955 36.9567)" fill="#555555" font-family="'ArialMT'" font-size="24">predio</text>
+	<text transform="matrix(1 0 0 1 1405.6104 36.9567)" fill="#555555" font-family="'ArialMT'" font-size="24"> </text>
+	<text transform="matrix(1 0 0 1 1411.5293 36.9567)" fill="#555555" font-family="'ArialMT'" font-size="24">en</text>
+	<text transform="matrix(1 0 0 1 1438.2246 36.9567)" fill="#555555" font-family="'ArialMT'" font-size="24"> </text>
+	<text transform="matrix(1 0 0 1 1444.1445 36.9567)" fill="#555555" font-family="'ArialMT'" font-size="24">el</text>
+	<text transform="matrix(1 0 0 1 1462.8242 36.9567)" fill="#555555" font-family="'ArialMT'" font-size="24"> </text>
+	<text transform="matrix(1 0 0 1 1468.7441 36.9567)" fill="#555555" font-family="'ArialMT'" font-size="24">que</text>
+	<text transform="matrix(1 0 0 1 1508.7871 36.9567)" fill="#555555" font-family="'ArialMT'" font-size="24"> </text>
+	<text transform="matrix(1 0 0 1 1514.7061 36.9567)" fill="#555555" font-family="'ArialMT'" font-size="24">está</text>
+	<text transform="matrix(1 0 0 1 1560.0693 36.9567)" fill="#555555" font-family="'ArialMT'" font-size="24"> </text>
+	<text transform="matrix(1 0 0 1 1565.9893 36.9567)" fill="#555555" font-family="'ArialMT'" font-size="24">trabajando </text>
+	<text transform="matrix(1 0 0 1 1018.4844 65.7574)" fill="#555555" font-family="'ArialMT'" font-size="24">el</text>
+	<text transform="matrix(1 0 0 1 1037.1646 65.7574)" fill="#555555" font-family="'ArialMT'" font-size="24"> </text>
+	<text transform="matrix(1 0 0 1 1044.7842 65.7574)" fill="#555555" font-family="'ArialMT'" font-size="24">usuario</text>
+	<text transform="matrix(1 0 0 1 1123.499 65.7574)" fill="#555555" font-family="'ArialMT'" font-size="24"> </text>
+	<text transform="matrix(1 0 0 1 1131.1191 65.7574)" fill="#555555" font-family="'ArialMT'" font-size="24">como</text>
+	<text transform="matrix(1 0 0 1 1189.8066 65.7574)" fill="#555555" font-family="'ArialMT'" font-size="24"> </text>
+	<text transform="matrix(1 0 0 1 1197.4268 65.7574)" fill="#555555" font-family="'ArialMT'" font-size="24">el</text>
+	<text transform="matrix(1 0 0 1 1216.1074 65.7574)" fill="#555555" font-family="'ArialMT'" font-size="24"> </text>
+	<text transform="matrix(1 0 0 1 1223.7275 65.7574)" fill="#555555" font-family="'ArialMT'" font-size="24">nombre,</text>
+	<text transform="matrix(1 0 0 1 1311.7705 65.7574)" fill="#555555" font-family="'ArialMT'" font-size="24"> </text>
+	<text transform="matrix(1 0 0 1 1319.3906 65.7574)" fill="#555555" font-family="'ArialMT'" font-size="24">dueño</text>
+	<text transform="matrix(1 0 0 1 1386.1299 65.7574)" fill="#555555" font-family="'ArialMT'" font-size="24"> </text>
+	<text transform="matrix(1 0 0 1 1393.749 65.7574)" fill="#555555" font-family="'ArialMT'" font-size="24">del</text>
+	<text transform="matrix(1 0 0 1 1425.7764 65.7574)" fill="#555555" font-family="'ArialMT'" font-size="24"> </text>
+	<text transform="matrix(1 0 0 1 1433.3975 65.7574)" fill="#555555" font-family="'ArialMT'" font-size="24">predio,</text>
+	<text transform="matrix(1 0 0 1 1506.7803 65.7574)" fill="#555555" font-family="'ArialMT'" font-size="24"> </text>
+	<text transform="matrix(1 0 0 1 1514.4004 65.7574)" fill="#555555" font-family="'ArialMT'" font-size="24">administrador</text>
+	<text transform="matrix(1 0 0 1 1659.7959 65.7574)" fill="#555555" font-family="'ArialMT'" font-size="24"> </text>
+	<text transform="matrix(1 0 0 1 1667.415 65.7574)" fill="#555555" font-family="'ArialMT'" font-size="24">y </text>
+	<text transform="matrix(1 0 0 1 1018.4844 94.5563)" fill="#555555" font-family="'ArialMT'" font-size="24">teléfono</text>
+	<text transform="matrix(1 0 0 1 1103.8906 94.5563)" fill="#555555" font-family="'ArialMT'" font-size="24"> </text>
+	<text transform="matrix(1 0 0 1 1109.8779 94.5563)" fill="#555555" font-family="'ArialMT'" font-size="24">de</text>
+	<text transform="matrix(1 0 0 1 1136.5723 94.5563)" fill="#555555" font-family="'ArialMT'" font-size="24"> </text>
+	<text transform="matrix(1 0 0 1 1142.5586 94.5563)" fill="#555555" font-family="'ArialMT'" font-size="24">contacto.</text>
+	<text transform="matrix(1 0 0 1 1239.9531 94.5563)" fill="#555555" font-family="'ArialMT'" font-size="24"> </text>
+	<text transform="matrix(1 0 0 1 1245.9395 94.5563)" fill="#555555" font-family="'ArialMT'" font-size="24">Además,</text>
+	<text transform="matrix(1 0 0 1 1340.6504 94.5563)" fill="#555555" font-family="'ArialMT'" font-size="24"> </text>
+	<text transform="matrix(1 0 0 1 1346.6357 94.5563)" fill="#555555" font-family="'ArialMT'" font-size="24">si</text>
+	<text transform="matrix(1 0 0 1 1363.9678 94.5563)" fill="#555555" font-family="'ArialMT'" font-size="24"> </text>
+	<text transform="matrix(1 0 0 1 1369.9541 94.5563)" fill="#555555" font-family="'ArialMT'" font-size="24">el</text>
+	<text transform="matrix(1 0 0 1 1388.6338 94.5563)" fill="#555555" font-family="'ArialMT'" font-size="24"> </text>
+	<text transform="matrix(1 0 0 1 1394.6201 94.5563)" fill="#555555" font-family="'ArialMT'" font-size="24">usuario</text>
+	<text transform="matrix(1 0 0 1 1473.335 94.5563)" fill="#555555" font-family="'ArialMT'" font-size="24"> </text>
+	<text transform="matrix(1 0 0 1 1479.3213 94.5563)" fill="#555555" font-family="'ArialMT'" font-size="24">trabaja</text>
+	<text transform="matrix(1 0 0 1 1552.7041 94.5563)" fill="#555555" font-family="'ArialMT'" font-size="24"> </text>
+	<text transform="matrix(1 0 0 1 1558.6904 94.5563)" fill="#555555" font-family="'ArialMT'" font-size="24">en</text>
+	<text transform="matrix(1 0 0 1 1585.3857 94.5563)" fill="#555555" font-family="'ArialMT'" font-size="24"> </text>
+	<text transform="matrix(1 0 0 1 1591.3721 94.5563)" fill="#555555" font-family="'ArialMT'" font-size="24">distintos </text>
+	<text transform="matrix(1 0 0 1 1018.4844 123.3561)" fill="#555555" font-family="'ArialMT'" font-size="24">predios</text>
+	<text transform="matrix(1 0 0 1 1097.1992 123.3561)" fill="#555555" font-family="'ArialMT'" font-size="24"> </text>
+	<text transform="matrix(1 0 0 1 1103.6865 123.3561)" fill="#555555" font-family="'ArialMT'" font-size="24">tiene</text>
+	<text transform="matrix(1 0 0 1 1155.7295 123.3561)" fill="#555555" font-family="'ArialMT'" font-size="24"> </text>
+	<text transform="matrix(1 0 0 1 1162.2178 123.3561)" fill="#555555" font-family="'ArialMT'" font-size="24">la</text>
+	<text transform="matrix(1 0 0 1 1180.8975 123.3561)" fill="#555555" font-family="'ArialMT'" font-size="24"> </text>
+	<text transform="matrix(1 0 0 1 1187.3838 123.3561)" fill="#555555" font-family="'ArialMT'" font-size="24">opción</text>
+	<text transform="matrix(1 0 0 1 1258.1074 123.3561)" fill="#555555" font-family="'ArialMT'" font-size="24"> </text>
+	<text transform="matrix(1 0 0 1 1264.5947 123.3561)" fill="#555555" font-family="'ArialMT'" font-size="24">de</text>
+	<text transform="matrix(1 0 0 1 1291.292 123.3561)" fill="#555555" font-family="'ArialMT'" font-size="24"> </text>
+	<text transform="matrix(1 0 0 1 1297.7783 123.3561)" fill="#555555" font-family="'ArialMT'" font-size="24">ver</text>
+	<text transform="matrix(1 0 0 1 1331.1182 123.3561)" fill="#555555" font-family="'ArialMT'" font-size="24"> </text>
+	<text transform="matrix(1 0 0 1 1337.6064 123.3561)" fill="#555555" font-family="'ArialMT'" font-size="24">y</text>
+	<text transform="matrix(1 0 0 1 1349.6064 123.3561)" fill="#555555" font-family="'ArialMT'" font-size="24"> </text>
+	<text transform="matrix(1 0 0 1 1356.0928 123.3561)" fill="#555555" font-family="'ArialMT'" font-size="24">seleccionar</text>
+	<text transform="matrix(1 0 0 1 1477.4883 123.3561)" fill="#555555" font-family="'ArialMT'" font-size="24"> </text>
+	<text transform="matrix(1 0 0 1 1483.9756 123.3561)" fill="#555555" font-family="'ArialMT'" font-size="24">aquel</text>
+	<text transform="matrix(1 0 0 1 1542.6982 123.3561)" fill="#555555" font-family="'ArialMT'" font-size="24"> </text>
+	<text transform="matrix(1 0 0 1 1549.1865 123.3561)" fill="#555555" font-family="'ArialMT'" font-size="24">en</text>
+	<text transform="matrix(1 0 0 1 1575.8818 123.3561)" fill="#555555" font-family="'ArialMT'" font-size="24"> </text>
+	<text transform="matrix(1 0 0 1 1582.3691 123.3561)" fill="#555555" font-family="'ArialMT'" font-size="24">el</text>
+	<text transform="matrix(1 0 0 1 1601.0479 123.3561)" fill="#555555" font-family="'ArialMT'" font-size="24"> </text>
+	<text transform="matrix(1 0 0 1 1607.5371 123.3561)" fill="#555555" font-family="'ArialMT'" font-size="24">que</text>
+	<text transform="matrix(1 0 0 1 1647.5801 123.3561)" fill="#555555" font-family="'ArialMT'" font-size="24"> </text>
+	<text transform="matrix(1 0 0 1 1654.0674 123.3561)" fill="#555555" font-family="'ArialMT'" font-size="24">se </text>
+	<text transform="matrix(1 0 0 1 1018.4844 152.1569)" fill="#555555" font-family="'ArialMT'" font-size="24">encuentra.</text>
+	<text transform="matrix(1 0 0 1 1131.8984 152.1569)" fill="#555555" font-family="'ArialMT'" font-size="24"> </text>
+	<text transform="matrix(1 0 0 1 1140.1885 152.1569)" fill="#555555" font-family="'ArialMT'" font-size="24">Si</text>
+	<text transform="matrix(1 0 0 1 1161.5283 152.1569)" fill="#555555" font-family="'ArialMT'" font-size="24"> </text>
+	<text transform="matrix(1 0 0 1 1169.8184 152.1569)" fill="#555555" font-family="'ArialMT'" font-size="24">lo</text>
+	<text transform="matrix(1 0 0 1 1188.499 152.1569)" fill="#555555" font-family="'ArialMT'" font-size="24"> </text>
+	<text transform="matrix(1 0 0 1 1196.7871 152.1569)" fill="#555555" font-family="'ArialMT'" font-size="24">desea</text>
+	<text transform="matrix(1 0 0 1 1262.1768 152.1569)" fill="#555555" font-family="'ArialMT'" font-size="24"> </text>
+	<text transform="matrix(1 0 0 1 1270.4678 152.1569)" fill="#555555" font-family="'ArialMT'" font-size="24">puede</text>
+	<text transform="matrix(1 0 0 1 1337.2061 152.1569)" fill="#555555" font-family="'ArialMT'" font-size="24"> </text>
+	<text transform="matrix(1 0 0 1 1345.4961 152.1569)" fill="#555555" font-family="'ArialMT'" font-size="24">salir</text>
+	<text transform="matrix(1 0 0 1 1389.501 152.1569)" fill="#555555" font-family="'ArialMT'" font-size="24"> </text>
+	<text transform="matrix(1 0 0 1 1397.79 152.1569)" fill="#555555" font-family="'ArialMT'" font-size="24">de</text>
+	<text transform="matrix(1 0 0 1 1424.4854 152.1569)" fill="#555555" font-family="'ArialMT'" font-size="24"> </text>
+	<text transform="matrix(1 0 0 1 1432.7754 152.1569)" fill="#555555" font-family="'ArialMT'" font-size="24">su</text>
+	<text transform="matrix(1 0 0 1 1458.124 152.1569)" fill="#555555" font-family="'ArialMT'" font-size="24"> </text>
+	<text transform="matrix(1 0 0 1 1466.4131 152.1569)" fill="#555555" font-family="'ArialMT'" font-size="24">cuenta</text>
+	<text transform="matrix(1 0 0 1 1538.4717 152.1569)" fill="#555555" font-family="'ArialMT'" font-size="24"> </text>
+	<text transform="matrix(1 0 0 1 1546.7607 152.1569)" fill="#555555" font-family="'ArialMT'" font-size="24">en</text>
+	<text transform="matrix(1 0 0 1 1573.4561 152.1569)" fill="#555555" font-family="'ArialMT'" font-size="24"> </text>
+	<text transform="matrix(1 0 0 1 1581.7461 152.1569)" fill="#555555" font-family="'ArialMT'" font-size="24">la</text>
+	<text transform="matrix(1 0 0 1 1600.4248 152.1569)" fill="#555555" font-family="'ArialMT'" font-size="24"> </text>
+	<text transform="matrix(1 0 0 1 1608.7158 152.1569)" fill="#555555" font-family="'ArialMT'" font-size="24">aplica</text>
+	<text transform="matrix(1 0 0 1 1671.4229 152.1569)" fill="#555555" font-family="'ArialMT'" font-size="24">-</text>
+	<text transform="matrix(1 0 0 1 1018.4844 180.9567)" fill="#555555" font-family="'ArialMT'" font-size="24">cion.</text>
+	<text transform="matrix(1 0 0 1 1069.1787 180.9567)" font-family="'ArialMT'" font-size="24"> </text>
+	
+		<image overflow="visible" enable-background="new    " width="429" height="802" xlink:href="E8A1211D.jpg"  transform="matrix(0.7726 0 0 0.7726 1137.0889 313.3287)">
+	</image>
+	<rect x="622.452" y="728.934" fill="none" width="512.59" height="204.127"/>
+	<text transform="matrix(1 0 0 1 622.4517 746.1178)" font-family="'Arial-BoldMT'" font-size="24">Información de la oveja.</text>
+	<text transform="matrix(1 0 0 1 622.4517 774.9186)" fill="#555555" font-family="'ArialMT'" font-size="24">Se</text>
+	<text transform="matrix(1 0 0 1 651.8066 774.9186)" fill="#555555" font-family="'ArialMT'" font-size="24" letter-spacing="7"> </text>
+	<text transform="matrix(1 0 0 1 666.5239 774.9186)" fill="#555555" font-family="'ArialMT'" font-size="24">despliega</text>
+	<text transform="matrix(1 0 0 1 769.2739 774.9186)" fill="#555555" font-family="'ArialMT'" font-size="24" letter-spacing="7"> </text>
+	<text transform="matrix(1 0 0 1 783.9907 774.9186)" fill="#555555" font-family="'ArialMT'" font-size="24">la</text>
+	<text transform="matrix(1 0 0 1 802.6709 774.9186)" fill="#555555" font-family="'ArialMT'" font-size="24" letter-spacing="7"> </text>
+	<text transform="matrix(1 0 0 1 817.3877 774.9186)" fill="#555555" font-family="'ArialMT'" font-size="24">información</text>
+	<text transform="matrix(1 0 0 1 941.4419 774.9186)" fill="#555555" font-family="'ArialMT'" font-size="24" letter-spacing="7"> </text>
+	<text transform="matrix(1 0 0 1 956.1587 774.9186)" fill="#555555" font-family="'ArialMT'" font-size="24">referente</text>
+	<text transform="matrix(1 0 0 1 1052.2178 774.9186)" fill="#555555" font-family="'ArialMT'" font-size="24" letter-spacing="7"> </text>
+	<text transform="matrix(1 0 0 1 1066.9346 774.9186)" fill="#555555" font-family="'ArialMT'" font-size="24">a</text>
+	<text transform="matrix(1 0 0 1 1080.2822 774.9186)" fill="#555555" font-family="'ArialMT'" font-size="24" letter-spacing="7"> </text>
+	<text transform="matrix(1 0 0 1 1094.999 774.9186)" fill="#555555" font-family="'ArialMT'" font-size="24">una </text>
+	<text transform="matrix(1 0 0 1 622.4517 803.7194)" fill="#555555" font-family="'ArialMT'" font-size="24">oveja</text>
+	<text transform="matrix(1 0 0 1 679.8267 803.7194)" fill="#555555" font-family="'ArialMT'" font-size="24"> </text>
+	<text transform="matrix(1 0 0 1 685.6338 803.7194)" fill="#555555" font-family="'ArialMT'" font-size="24">de</text>
+	<text transform="matrix(1 0 0 1 712.3286 803.7194)" fill="#555555" font-family="'ArialMT'" font-size="24"> </text>
+	<text transform="matrix(1 0 0 1 718.1367 803.7194)" fill="#555555" font-family="'ArialMT'" font-size="24">un</text>
+	<text transform="matrix(1 0 0 1 744.8315 803.7194)" fill="#555555" font-family="'ArialMT'" font-size="24"> </text>
+	<text transform="matrix(1 0 0 1 750.6396 803.7194)" fill="#555555" font-family="'ArialMT'" font-size="24">predio,</text>
+	<text transform="matrix(1 0 0 1 824.0215 803.7194)" fill="#555555" font-family="'ArialMT'" font-size="24"> </text>
+	<text transform="matrix(1 0 0 1 829.8286 803.7194)" fill="#555555" font-family="'ArialMT'" font-size="24">los</text>
+	<text transform="matrix(1 0 0 1 860.5088 803.7194)" fill="#555555" font-family="'ArialMT'" font-size="24"> </text>
+	<text transform="matrix(1 0 0 1 866.3169 803.7194)" fill="#555555" font-family="'ArialMT'" font-size="24">botones</text>
+	<text transform="matrix(1 0 0 1 951.7227 803.7194)" fill="#555555" font-family="'ArialMT'" font-size="24"> </text>
+	<text transform="matrix(1 0 0 1 957.5298 803.7194)" fill="#555555" font-family="'ArialMT'" font-size="24">en</text>
+	<text transform="matrix(1 0 0 1 984.2246 803.7194)" fill="#555555" font-family="'ArialMT'" font-size="24"> </text>
+	<text transform="matrix(1 0 0 1 990.0327 803.7194)" fill="#555555" font-family="'ArialMT'" font-size="24">la</text>
+	<text transform="matrix(1 0 0 1 1008.7119 803.7194)" fill="#555555" font-family="'ArialMT'" font-size="24"> </text>
+	<text transform="matrix(1 0 0 1 1014.5195 803.7194)" fill="#555555" font-family="'ArialMT'" font-size="24">parte</text>
+	<text transform="matrix(1 0 0 1 1069.2227 803.7194)" fill="#555555" font-family="'ArialMT'" font-size="24"> </text>
+	<text transform="matrix(1 0 0 1 1075.0303 803.7194)" fill="#555555" font-family="'ArialMT'" font-size="24">inferi</text>
+	<text transform="matrix(1 0 0 1 1127.0498 803.7194)" fill="#555555" font-family="'ArialMT'" font-size="24">-</text>
+	<text transform="matrix(1 0 0 1 622.4517 832.5182)" fill="#555555" font-family="'ArialMT'" font-size="24">or</text>
+	<text transform="matrix(1 0 0 1 643.792 832.5182)" fill="#555555" font-family="'ArialMT'" font-size="24" letter-spacing="9"> </text>
+	<text transform="matrix(1 0 0 1 661.1895 832.5182)" fill="#555555" font-family="'ArialMT'" font-size="24">permiten</text>
+	<text transform="matrix(1 0 0 1 754.5645 832.5182)" fill="#555555" font-family="'ArialMT'" font-size="24" letter-spacing="9"> </text>
+	<text transform="matrix(1 0 0 1 771.9639 832.5182)" fill="#555555" font-family="'ArialMT'" font-size="24">cambiar</text>
+	<text transform="matrix(1 0 0 1 857.3228 832.5182)" fill="#555555" font-family="'ArialMT'" font-size="24" letter-spacing="9"> </text>
+	<text transform="matrix(1 0 0 1 874.7217 832.5182)" fill="#555555" font-family="'ArialMT'" font-size="24">el</text>
+	<text transform="matrix(1 0 0 1 893.4009 832.5182)" fill="#555555" font-family="'ArialMT'" font-size="24" letter-spacing="9"> </text>
+	<text transform="matrix(1 0 0 1 910.7998 832.5182)" fill="#555555" font-family="'ArialMT'" font-size="24">tipo</text>
+	<text transform="matrix(1 0 0 1 949.4946 832.5182)" fill="#555555" font-family="'ArialMT'" font-size="24" letter-spacing="9"> </text>
+	<text transform="matrix(1 0 0 1 966.8926 832.5182)" fill="#555555" font-family="'ArialMT'" font-size="24">de</text>
+	<text transform="matrix(1 0 0 1 993.5889 832.5182)" fill="#555555" font-family="'ArialMT'" font-size="24" letter-spacing="9"> </text>
+	<text transform="matrix(1 0 0 1 1010.9868 832.5182)" fill="#555555" font-family="'ArialMT'" font-size="24">información </text>
+	<text transform="matrix(1 0 0 1 622.4517 861.318)" fill="#555555" font-family="'ArialMT'" font-size="24">mostrada.</text>
+	<text transform="matrix(1 0 0 1 729.1626 861.318)" fill="#555555" font-family="'ArialMT'" font-size="24" letter-spacing="6"> </text>
+	<text transform="matrix(1 0 0 1 743.6289 861.318)" fill="#555555" font-family="'ArialMT'" font-size="24">Se</text>
+	<text transform="matrix(1 0 0 1 772.9839 861.318)" fill="#555555" font-family="'ArialMT'" font-size="24" letter-spacing="6"> </text>
+	<text transform="matrix(1 0 0 1 787.4497 861.318)" fill="#555555" font-family="'ArialMT'" font-size="24">permite</text>
+	<text transform="matrix(1 0 0 1 867.4766 861.318)" fill="#555555" font-family="'ArialMT'" font-size="24" letter-spacing="6"> </text>
+	<text transform="matrix(1 0 0 1 881.9429 861.318)" fill="#555555" font-family="'ArialMT'" font-size="24">realizar</text>
+	<text transform="matrix(1 0 0 1 960.6338 861.318)" fill="#555555" font-family="'ArialMT'" font-size="24" letter-spacing="6"> </text>
+	<text transform="matrix(1 0 0 1 975.0986 861.318)" fill="#555555" font-family="'ArialMT'" font-size="24">una</text>
+	<text transform="matrix(1 0 0 1 1015.1416 861.318)" fill="#555555" font-family="'ArialMT'" font-size="24" letter-spacing="6"> </text>
+	<text transform="matrix(1 0 0 1 1029.6074 861.318)" fill="#555555" font-family="'ArialMT'" font-size="24">búsqueda </text>
+	<text transform="matrix(1 0 0 1 622.4517 890.1178)" fill="#555555" font-family="'ArialMT'" font-size="24">mediante</text>
+	<text transform="matrix(1 0 0 1 721.1816 890.1178)" fill="#555555" font-family="'ArialMT'" font-size="24" letter-spacing="3"> </text>
+	<text transform="matrix(1 0 0 1 731.1328 890.1178)" fill="#555555" font-family="'ArialMT'" font-size="24">el</text>
+	<text transform="matrix(1 0 0 1 749.8125 890.1178)" fill="#555555" font-family="'ArialMT'" font-size="24" letter-spacing="3"> </text>
+	<text transform="matrix(1 0 0 1 759.7637 890.1178)" fill="#555555" font-family="'ArialMT'" font-size="24">botón</text>
+	<text transform="matrix(1 0 0 1 819.8228 890.1178)" fill="#555555" font-family="'ArialMT'" font-size="24" letter-spacing="3"> </text>
+	<text transform="matrix(1 0 0 1 829.7725 890.1178)" fill="#555555" font-family="'ArialMT'" font-size="24">“Buscar”</text>
+	<text transform="matrix(1 0 0 1 920.4526 890.1178)" fill="#555555" font-family="'ArialMT'" font-size="24" letter-spacing="3"> </text>
+	<text transform="matrix(1 0 0 1 930.4038 890.1178)" fill="#555555" font-family="'ArialMT'" font-size="24">e</text>
+	<text transform="matrix(1 0 0 1 943.752 890.1178)" fill="#555555" font-family="'ArialMT'" font-size="24" letter-spacing="3"> </text>
+	<text transform="matrix(1 0 0 1 953.7017 890.1178)" fill="#555555" font-family="'ArialMT'" font-size="24">ingresando</text>
+	<text transform="matrix(1 0 0 1 1072.46 890.1178)" fill="#555555" font-family="'ArialMT'" font-size="24" letter-spacing="3"> </text>
+	<text transform="matrix(1 0 0 1 1082.4111 890.1178)" fill="#555555" font-family="'ArialMT'" font-size="24">el</text>
+	<text transform="matrix(1 0 0 1 1101.0908 890.1178)" fill="#555555" font-family="'ArialMT'" font-size="24" letter-spacing="3"> </text>
+	<text transform="matrix(1 0 0 1 1111.042 890.1178)" fill="#555555" font-family="'ArialMT'" font-size="24">ID </text>
+	<text transform="matrix(1 0 0 1 622.4517 918.9186)" fill="#555555" font-family="'ArialMT'" font-size="24">del arete de la oveja.</text>
+	<rect x="38.583" y="-1700.933" fill="none" width="914.374" height="109.495"/>
+	<text transform="matrix(1 0 0 1 38.583 -1683.7504)" fill="#555555" font-family="'ArialMT'" font-size="24" letter-spacing="28"> </text>
+	<text transform="matrix(1 0 0 1 74.583 -1683.7504)" fill="#555555" font-family="'ArialMT'" font-size="24">El</text>
+	<text transform="matrix(1 0 0 1 95.9229 -1683.7504)" fill="#555555" font-family="'ArialMT'" font-size="24"> </text>
+	<text transform="matrix(1 0 0 1 101.3008 -1683.7504)" fill="#555555" font-family="'ArialMT'" font-size="24">sistema</text>
+	<text transform="matrix(1 0 0 1 183.9893 -1683.7504)" fill="#555555" font-family="'ArialMT'" font-size="24"> </text>
+	<text transform="matrix(1 0 0 1 189.3672 -1683.7504)" fill="#555555" font-family="'ArialMT'" font-size="24">tiene</text>
+	<text transform="matrix(1 0 0 1 241.4102 -1683.7504)" fill="#555555" font-family="'ArialMT'" font-size="24"> </text>
+	<text transform="matrix(1 0 0 1 246.7891 -1683.7504)" fill="#555555" font-family="'ArialMT'" font-size="24">por</text>
+	<text transform="matrix(1 0 0 1 281.4771 -1683.7504)" fill="#555555" font-family="'ArialMT'" font-size="24"> </text>
+	<text transform="matrix(1 0 0 1 286.855 -1683.7504)" fill="#555555" font-family="'ArialMT'" font-size="24">objetivo</text>
+	<text transform="matrix(1 0 0 1 369.5781 -1683.7504)" fill="#555555" font-family="'ArialMT'" font-size="24"> </text>
+	<text transform="matrix(1 0 0 1 374.9561 -1683.7504)" fill="#555555" font-family="'ArialMT'" font-size="24">apojar</text>
+	<text transform="matrix(1 0 0 1 441.6709 -1683.7504)" fill="#555555" font-family="'ArialMT'" font-size="24"> </text>
+	<text transform="matrix(1 0 0 1 447.0488 -1683.7504)" fill="#555555" font-family="'ArialMT'" font-size="24">a</text>
+	<text transform="matrix(1 0 0 1 460.397 -1683.7504)" fill="#555555" font-family="'ArialMT'" font-size="24"> </text>
+	<text transform="matrix(1 0 0 1 465.7759 -1683.7504)" fill="#555555" font-family="'ArialMT'" font-size="24">los</text>
+	<text transform="matrix(1 0 0 1 496.4561 -1683.7504)" fill="#555555" font-family="'ArialMT'" font-size="24"> </text>
+	<text transform="matrix(1 0 0 1 501.834 -1683.7504)" fill="#555555" font-family="'ArialMT'" font-size="24">productores</text>
+	<text transform="matrix(1 0 0 1 628.5723 -1683.7504)" fill="#555555" font-family="'ArialMT'" font-size="24"> </text>
+	<text transform="matrix(1 0 0 1 633.9512 -1683.7504)" fill="#555555" font-family="'ArialMT'" font-size="24">ovinos</text>
+	<text transform="matrix(1 0 0 1 703.3262 -1683.7504)" fill="#555555" font-family="'ArialMT'" font-size="24"> </text>
+	<text transform="matrix(1 0 0 1 708.7041 -1683.7504)" fill="#555555" font-family="'ArialMT'" font-size="24">del</text>
+	<text transform="matrix(1 0 0 1 740.731 -1683.7504)" fill="#555555" font-family="'ArialMT'" font-size="24"> </text>
+	<text transform="matrix(1 0 0 1 746.1099 -1683.7504)" fill="#555555" font-family="'ArialMT'" font-size="24">país</text>
+	<text transform="matrix(1 0 0 1 791.4741 -1683.7504)" fill="#555555" font-family="'ArialMT'" font-size="24"> </text>
+	<text transform="matrix(1 0 0 1 796.8521 -1683.7504)" fill="#555555" font-family="'ArialMT'" font-size="24">permitiendo</text>
+	<text transform="matrix(1 0 0 1 922.2539 -1683.7504)" fill="#555555" font-family="'ArialMT'" font-size="24"> </text>
+	<text transform="matrix(1 0 0 1 927.6328 -1683.7504)" fill="#555555" font-family="'ArialMT'" font-size="24">vi</text>
+	<text transform="matrix(1 0 0 1 944.9648 -1683.7504)" fill="#555555" font-family="'ArialMT'" font-size="24">-</text>
+	<text transform="matrix(1 0 0 1 38.583 -1654.9506)" fill="#555555" font-family="'ArialMT'" font-size="24">sualizar</text>
+	<text transform="matrix(1 0 0 1 121.2822 -1654.9506)" fill="#555555" font-family="'ArialMT'" font-size="24" letter-spacing="3"> </text>
+	<text transform="matrix(1 0 0 1 132.7129 -1654.9506)" fill="#555555" font-family="'ArialMT'" font-size="24">y</text>
+	<text transform="matrix(1 0 0 1 144.7129 -1654.9506)" fill="#555555" font-family="'ArialMT'" font-size="24" letter-spacing="3"> </text>
+	<text transform="matrix(1 0 0 1 156.144 -1654.9506)" fill="#555555" font-family="'ArialMT'" font-size="24">manipular</text>
+	<text transform="matrix(1 0 0 1 261.5313 -1654.9506)" fill="#555555" font-family="'ArialMT'" font-size="24" letter-spacing="3"> </text>
+	<text transform="matrix(1 0 0 1 272.9609 -1654.9506)" fill="#555555" font-family="'ArialMT'" font-size="24">los</text>
+	<text transform="matrix(1 0 0 1 303.6411 -1654.9506)" fill="#555555" font-family="'ArialMT'" font-size="24" letter-spacing="3"> </text>
+	<text transform="matrix(1 0 0 1 315.0723 -1654.9506)" fill="#555555" font-family="'ArialMT'" font-size="24">datos</text>
+	<text transform="matrix(1 0 0 1 373.7832 -1654.9506)" fill="#555555" font-family="'ArialMT'" font-size="24" letter-spacing="3"> </text>
+	<text transform="matrix(1 0 0 1 385.2139 -1654.9506)" fill="#555555" font-family="'ArialMT'" font-size="24">de</text>
+	<text transform="matrix(1 0 0 1 411.9092 -1654.9506)" fill="#555555" font-family="'ArialMT'" font-size="24" letter-spacing="3"> </text>
+	<text transform="matrix(1 0 0 1 423.3398 -1654.9506)" fill="#555555" font-family="'ArialMT'" font-size="24">los</text>
+	<text transform="matrix(1 0 0 1 454.02 -1654.9506)" fill="#555555" font-family="'ArialMT'" font-size="24" letter-spacing="3"> </text>
+	<text transform="matrix(1 0 0 1 465.4502 -1654.9506)" fill="#555555" font-family="'ArialMT'" font-size="24">rebaños</text>
+	<text transform="matrix(1 0 0 1 552.1812 -1654.9506)" fill="#555555" font-family="'ArialMT'" font-size="24" letter-spacing="3"> </text>
+	<text transform="matrix(1 0 0 1 563.6108 -1654.9506)" fill="#555555" font-family="'ArialMT'" font-size="24">de</text>
+	<text transform="matrix(1 0 0 1 590.3071 -1654.9506)" fill="#555555" font-family="'ArialMT'" font-size="24" letter-spacing="3"> </text>
+	<text transform="matrix(1 0 0 1 601.7383 -1654.9506)" fill="#555555" font-family="'ArialMT'" font-size="24">forma</text>
+	<text transform="matrix(1 0 0 1 663.085 -1654.9506)" fill="#555555" font-family="'ArialMT'" font-size="24" letter-spacing="3"> </text>
+	<text transform="matrix(1 0 0 1 674.5161 -1654.9506)" fill="#555555" font-family="'ArialMT'" font-size="24">portable.</text>
+	<text transform="matrix(1 0 0 1 767.915 -1654.9506)" fill="#555555" font-family="'ArialMT'" font-size="24" letter-spacing="3"> </text>
+	<text transform="matrix(1 0 0 1 779.3452 -1654.9506)" fill="#555555" font-family="'ArialMT'" font-size="24">Es</text>
+	<text transform="matrix(1 0 0 1 807.353 -1654.9506)" fill="#555555" font-family="'ArialMT'" font-size="24" letter-spacing="3"> </text>
+	<text transform="matrix(1 0 0 1 818.7842 -1654.9506)" fill="#555555" font-family="'ArialMT'" font-size="24">utilizado</text>
+	<text transform="matrix(1 0 0 1 906.8389 -1654.9506)" fill="#555555" font-family="'ArialMT'" font-size="24" letter-spacing="3"> </text>
+	<text transform="matrix(1 0 0 1 918.27 -1654.9506)" fill="#555555" font-family="'ArialMT'" font-size="24">por </text>
+	<text transform="matrix(1 0 0 1 38.583 -1626.1508)" fill="#555555" font-family="'ArialMT'" font-size="24">dueños, administradores, trabajadores y médicos veterinarios del campo.</text>
+	<rect x="1020.454" y="-1700.933" fill="none" width="587.971" height="109.495"/>
+	<text transform="matrix(1 0 0 1 1020.4541 -1683.7504)" fill="#555555" font-family="'ArialMT'" font-size="24">Este</text>
+	
+		<text transform="matrix(1 0 0 1 1068.4775 -1683.7504)" fill="#555555" font-family="'ArialMT'" font-size="24" letter-spacing="3"> </text>
+	<text transform="matrix(1 0 0 1 1079.4365 -1683.7504)" fill="#555555" font-family="'ArialMT'" font-size="24">canvas</text>
+	
+		<text transform="matrix(1 0 0 1 1155.4795 -1683.7504)" fill="#555555" font-family="'ArialMT'" font-size="24" letter-spacing="3"> </text>
+	<text transform="matrix(1 0 0 1 1166.4385 -1683.7504)" fill="#555555" font-family="'ArialMT'" font-size="24">presenta</text>
+	
+		<text transform="matrix(1 0 0 1 1259.8369 -1683.7504)" fill="#555555" font-family="'ArialMT'" font-size="24" letter-spacing="3"> </text>
+	<text transform="matrix(1 0 0 1 1270.7969 -1683.7504)" fill="#555555" font-family="'ArialMT'" font-size="24">sólo</text>
+	
+		<text transform="matrix(1 0 0 1 1314.8242 -1683.7504)" fill="#555555" font-family="'ArialMT'" font-size="24" letter-spacing="3"> </text>
+	<text transform="matrix(1 0 0 1 1325.7832 -1683.7504)" fill="#555555" font-family="'ArialMT'" font-size="24">la</text>
+	
+		<text transform="matrix(1 0 0 1 1344.4629 -1683.7504)" fill="#555555" font-family="'ArialMT'" font-size="24" letter-spacing="3"> </text>
+	<text transform="matrix(1 0 0 1 1355.4219 -1683.7504)" fill="#555555" font-family="'ArialMT'" font-size="24">interfaz</text>
+	<text transform="matrix(1 0 0 1 1434.125 -1683.7504)" fill="#555555" font-family="'ArialMT'" font-size="24" letter-spacing="3"> </text>
+	<text transform="matrix(1 0 0 1 1445.085 -1683.7504)" fill="#555555" font-family="'ArialMT'" font-size="24">utilizada</text>
+	
+		<text transform="matrix(1 0 0 1 1533.1396 -1683.7504)" fill="#555555" font-family="'ArialMT'" font-size="24" letter-spacing="3"> </text>
+	<text transform="matrix(1 0 0 1 1544.0986 -1683.7504)" fill="#555555" font-family="'ArialMT'" font-size="24">por</text>
+	
+		<text transform="matrix(1 0 0 1 1578.7861 -1683.7504)" fill="#555555" font-family="'ArialMT'" font-size="24" letter-spacing="3"> </text>
+	<text transform="matrix(1 0 0 1 1589.7451 -1683.7504)" fill="#555555" font-family="'ArialMT'" font-size="24">el </text>
+	<text transform="matrix(1 0 0 1 1020.4541 -1654.9506)" fill="#555555" font-family="'ArialMT'" font-size="24">veterinario</text>
+	<text transform="matrix(1 0 0 1 1132.5088 -1654.9506)" fill="#555555" font-family="'ArialMT'" font-size="24"> </text>
+	<text transform="matrix(1 0 0 1 1138.7471 -1654.9506)" fill="#555555" font-family="'ArialMT'" font-size="24">y</text>
+	<text transform="matrix(1 0 0 1 1150.7471 -1654.9506)" fill="#555555" font-family="'ArialMT'" font-size="24"> </text>
+	<text transform="matrix(1 0 0 1 1156.9863 -1654.9506)" fill="#555555" font-family="'ArialMT'" font-size="24">administrador,</text>
+	<text transform="matrix(1 0 0 1 1309.0488 -1654.9506)" fill="#555555" font-family="'ArialMT'" font-size="24"> </text>
+	<text transform="matrix(1 0 0 1 1315.2871 -1654.9506)" fill="#555555" font-family="'ArialMT'" font-size="24">sobre</text>
+	<text transform="matrix(1 0 0 1 1375.3223 -1654.9506)" fill="#555555" font-family="'ArialMT'" font-size="24"> </text>
+	<text transform="matrix(1 0 0 1 1381.5596 -1654.9506)" fill="#555555" font-family="'ArialMT'" font-size="24">un</text>
+	<text transform="matrix(1 0 0 1 1408.2559 -1654.9506)" fill="#555555" font-family="'ArialMT'" font-size="24"> </text>
+	<text transform="matrix(1 0 0 1 1414.4941 -1654.9506)" fill="#555555" font-family="'ArialMT'" font-size="24">celular,</text>
+	<text transform="matrix(1 0 0 1 1491.8613 -1654.9506)" fill="#555555" font-family="'ArialMT'" font-size="24"> </text>
+	<text transform="matrix(1 0 0 1 1498.1006 -1654.9506)" fill="#555555" font-family="'ArialMT'" font-size="24">cuando</text>
+	<text transform="matrix(1 0 0 1 1576.8389 -1654.9506)" fill="#555555" font-family="'ArialMT'" font-size="24"> </text>
+	<text transform="matrix(1 0 0 1 1583.0771 -1654.9506)" fill="#555555" font-family="'ArialMT'" font-size="24">se </text>
+	<text transform="matrix(1 0 0 1 1020.4541 -1626.1508)" fill="#555555" font-family="'ArialMT'" font-size="24">encuentren en terreno con el ganado ovino.</text>
+	<text transform="matrix(1 0 0 1 1020.4541 -1597.35)" fill="#555555" font-family="'ArialMT'" font-size="24">Version 1.0, del 25 de Septiembre de 2019.</text>
+</g>
+<rect x="112.443" y="1834.539" fill="none" width="648.525" height="241.486"/>
+<text transform="matrix(1 0 0 1 112.4434 1851.7202)" font-family="'Arial-BoldMT'" font-size="24">Pantalla principal.</text>
+<text transform="matrix(1 0 0 1 112.4434 1880.521)" fill="#555555" font-family="'ArialMT'" font-size="24">Despúes</text>
+<text transform="matrix(1 0 0 1 207.1665 1880.521)" fill="#555555" font-family="'ArialMT'" font-size="24" letter-spacing="1"> </text>
+<text transform="matrix(1 0 0 1 215.9204 1880.521)" fill="#555555" font-family="'ArialMT'" font-size="24">de</text>
+<text transform="matrix(1 0 0 1 242.6152 1880.521)" fill="#555555" font-family="'ArialMT'" font-size="24" letter-spacing="1"> </text>
+<text transform="matrix(1 0 0 1 251.3682 1880.521)" fill="#555555" font-family="'ArialMT'" font-size="24">ingresar</text>
+<text transform="matrix(1 0 0 1 338.0752 1880.521)" fill="#555555" font-family="'ArialMT'" font-size="24" letter-spacing="1"> </text>
+<text transform="matrix(1 0 0 1 346.8296 1880.521)" fill="#555555" font-family="'ArialMT'" font-size="24">en</text>
+<text transform="matrix(1 0 0 1 373.5254 1880.521)" fill="#555555" font-family="'ArialMT'" font-size="24" letter-spacing="1"> </text>
+<text transform="matrix(1 0 0 1 382.2783 1880.521)" fill="#555555" font-family="'ArialMT'" font-size="24">su</text>
+<text transform="matrix(1 0 0 1 407.6265 1880.521)" fill="#555555" font-family="'ArialMT'" font-size="24" letter-spacing="1"> </text>
+<text transform="matrix(1 0 0 1 416.3804 1880.521)" fill="#555555" font-family="'ArialMT'" font-size="24">cuenta,</text>
+<text transform="matrix(1 0 0 1 495.1064 1880.521)" fill="#555555" font-family="'ArialMT'" font-size="24" letter-spacing="1"> </text>
+<text transform="matrix(1 0 0 1 503.8604 1880.521)" fill="#555555" font-family="'ArialMT'" font-size="24">se</text>
+<text transform="matrix(1 0 0 1 529.2075 1880.521)" fill="#555555" font-family="'ArialMT'" font-size="24" letter-spacing="1"> </text>
+<text transform="matrix(1 0 0 1 537.9614 1880.521)" fill="#555555" font-family="'ArialMT'" font-size="24">despliega</text>
+<text transform="matrix(1 0 0 1 640.7114 1880.521)" fill="#555555" font-family="'ArialMT'" font-size="24" letter-spacing="1"> </text>
+<text transform="matrix(1 0 0 1 649.4644 1880.521)" fill="#555555" font-family="'ArialMT'" font-size="24">la</text>
+<text transform="matrix(1 0 0 1 668.1445 1880.521)" fill="#555555" font-family="'ArialMT'" font-size="24" letter-spacing="1"> </text>
+<text transform="matrix(1 0 0 1 676.8984 1880.521)" fill="#555555" font-family="'ArialMT'" font-size="24">pantalla </text>
+<text transform="matrix(1 0 0 1 112.4434 1909.3218)" fill="#555555" font-family="'ArialMT'" font-size="24">principal</text>
+<text transform="matrix(1 0 0 1 201.8223 1909.3218)" fill="#555555" font-family="'ArialMT'" font-size="24" letter-spacing="6"> </text>
+<text transform="matrix(1 0 0 1 214.8774 1909.3218)" fill="#555555" font-family="'ArialMT'" font-size="24">del</text>
+<text transform="matrix(1 0 0 1 246.9043 1909.3218)" fill="#555555" font-family="'ArialMT'" font-size="24" letter-spacing="6"> </text>
+<text transform="matrix(1 0 0 1 259.9585 1909.3218)" fill="#555555" font-family="'ArialMT'" font-size="24">usuario,</text>
+<text transform="matrix(1 0 0 1 345.3413 1909.3218)" fill="#555555" font-family="'ArialMT'" font-size="24" letter-spacing="6"> </text>
+<text transform="matrix(1 0 0 1 358.3965 1909.3218)" fill="#555555" font-family="'ArialMT'" font-size="24">en</text>
+<text transform="matrix(1 0 0 1 385.0913 1909.3218)" fill="#555555" font-family="'ArialMT'" font-size="24" letter-spacing="6"> </text>
+<text transform="matrix(1 0 0 1 398.1455 1909.3218)" fill="#555555" font-family="'ArialMT'" font-size="24">esta</text>
+<text transform="matrix(1 0 0 1 443.5083 1909.3218)" fill="#555555" font-family="'ArialMT'" font-size="24" letter-spacing="6"> </text>
+<text transform="matrix(1 0 0 1 456.5635 1909.3218)" fill="#555555" font-family="'ArialMT'" font-size="24">pantalla</text>
+<text transform="matrix(1 0 0 1 540.6333 1909.3218)" fill="#555555" font-family="'ArialMT'" font-size="24" letter-spacing="6"> </text>
+<text transform="matrix(1 0 0 1 553.6885 1909.3218)" fill="#555555" font-family="'ArialMT'" font-size="24">el</text>
+<text transform="matrix(1 0 0 1 572.3672 1909.3218)" fill="#555555" font-family="'ArialMT'" font-size="24" letter-spacing="6"> </text>
+<text transform="matrix(1 0 0 1 585.4224 1909.3218)" fill="#555555" font-family="'ArialMT'" font-size="24">usuario</text>
+<text transform="matrix(1 0 0 1 664.1372 1909.3218)" fill="#555555" font-family="'ArialMT'" font-size="24" letter-spacing="6"> </text>
+<text transform="matrix(1 0 0 1 677.1914 1909.3218)" fill="#555555" font-family="'ArialMT'" font-size="24">tiene</text>
+<text transform="matrix(1 0 0 1 729.2344 1909.3218)" fill="#555555" font-family="'ArialMT'" font-size="24" letter-spacing="6"> </text>
+<text transform="matrix(1 0 0 1 742.2896 1909.3218)" fill="#555555" font-family="'ArialMT'" font-size="24">la </text>
+<text transform="matrix(1 0 0 1 112.4434 1938.1206)" fill="#555555" font-family="'ArialMT'" font-size="24">opción</text>
+<text transform="matrix(1 0 0 1 183.1665 1938.1206)" fill="#555555" font-family="'ArialMT'" font-size="24"> </text>
+<text transform="matrix(1 0 0 1 188.6436 1938.1206)" fill="#555555" font-family="'ArialMT'" font-size="24">de</text>
+<text transform="matrix(1 0 0 1 215.3384 1938.1206)" fill="#555555" font-family="'ArialMT'" font-size="24"> </text>
+<text transform="matrix(1 0 0 1 220.8154 1938.1206)" fill="#555555" font-family="'ArialMT'" font-size="24">seleccionar</text>
+<text transform="matrix(1 0 0 1 342.2104 1938.1206)" fill="#555555" font-family="'ArialMT'" font-size="24"> </text>
+<text transform="matrix(1 0 0 1 347.6875 1938.1206)" fill="#555555" font-family="'ArialMT'" font-size="24">el</text>
+<text transform="matrix(1 0 0 1 366.3672 1938.1206)" fill="#555555" font-family="'ArialMT'" font-size="24"> </text>
+<text transform="matrix(1 0 0 1 371.8442 1938.1206)" fill="#555555" font-family="'ArialMT'" font-size="24">predio</text>
+<text transform="matrix(1 0 0 1 438.5596 1938.1206)" fill="#555555" font-family="'ArialMT'" font-size="24"> </text>
+<text transform="matrix(1 0 0 1 444.0361 1938.1206)" fill="#555555" font-family="'ArialMT'" font-size="24">en</text>
+<text transform="matrix(1 0 0 1 470.7314 1938.1206)" fill="#555555" font-family="'ArialMT'" font-size="24"> </text>
+<text transform="matrix(1 0 0 1 476.2085 1938.1206)" fill="#555555" font-family="'ArialMT'" font-size="24">el</text>
+<text transform="matrix(1 0 0 1 494.8882 1938.1206)" fill="#555555" font-family="'ArialMT'" font-size="24"> </text>
+<text transform="matrix(1 0 0 1 500.3652 1938.1206)" fill="#555555" font-family="'ArialMT'" font-size="24">que</text>
+<text transform="matrix(1 0 0 1 540.4082 1938.1206)" fill="#555555" font-family="'ArialMT'" font-size="24"> </text>
+<text transform="matrix(1 0 0 1 545.8853 1938.1206)" fill="#555555" font-family="'ArialMT'" font-size="24">trabajará.</text>
+<text transform="matrix(1 0 0 1 647.2764 1938.1206)" fill="#555555" font-family="'ArialMT'" font-size="24"> </text>
+<text transform="matrix(1 0 0 1 652.7534 1938.1206)" fill="#555555" font-family="'ArialMT'" font-size="24">Puede</text>
+<text transform="matrix(1 0 0 1 722.1514 1938.1206)" fill="#555555" font-family="'ArialMT'" font-size="24"> </text>
+<text transform="matrix(1 0 0 1 727.6294 1938.1206)" fill="#555555" font-family="'ArialMT'" font-size="24">so</text>
+<text transform="matrix(1 0 0 1 752.9766 1938.1206)" fill="#555555" font-family="'ArialMT'" font-size="24">-</text>
+<text transform="matrix(1 0 0 1 112.4434 1966.9204)" fill="#555555" font-family="'ArialMT'" font-size="24">licitar</text>
+<text transform="matrix(1 0 0 1 168.4473 1966.9204)" fill="#555555" font-family="'ArialMT'" font-size="24" letter-spacing="3"> </text>
+<text transform="matrix(1 0 0 1 178.6904 1966.9204)" fill="#555555" font-family="'ArialMT'" font-size="24">un</text>
+<text transform="matrix(1 0 0 1 205.3853 1966.9204)" fill="#555555" font-family="'ArialMT'" font-size="24" letter-spacing="3"> </text>
+<text transform="matrix(1 0 0 1 215.6294 1966.9204)" fill="#555555" font-family="'ArialMT'" font-size="24">análisis</text>
+<text transform="matrix(1 0 0 1 295.6685 1966.9204)" fill="#555555" font-family="'ArialMT'" font-size="24" letter-spacing="3"> </text>
+<text transform="matrix(1 0 0 1 305.9116 1966.9204)" fill="#555555" font-family="'ArialMT'" font-size="24">del</text>
+<text transform="matrix(1 0 0 1 337.9395 1966.9204)" fill="#555555" font-family="'ArialMT'" font-size="24" letter-spacing="3"> </text>
+<text transform="matrix(1 0 0 1 348.1826 1966.9204)" fill="#555555" font-family="'ArialMT'" font-size="24">predio</text>
+<text transform="matrix(1 0 0 1 414.8975 1966.9204)" fill="#555555" font-family="'ArialMT'" font-size="24" letter-spacing="3"> </text>
+<text transform="matrix(1 0 0 1 425.1406 1966.9204)" fill="#555555" font-family="'ArialMT'" font-size="24">mediante</text>
+<text transform="matrix(1 0 0 1 523.8706 1966.9204)" fill="#555555" font-family="'ArialMT'" font-size="24" letter-spacing="3"> </text>
+<text transform="matrix(1 0 0 1 534.1133 1966.9204)" fill="#555555" font-family="'ArialMT'" font-size="24">el</text>
+<text transform="matrix(1 0 0 1 552.7935 1966.9204)" fill="#555555" font-family="'ArialMT'" font-size="24" letter-spacing="3"> </text>
+<text transform="matrix(1 0 0 1 563.0376 1966.9204)" fill="#555555" font-family="'ArialMT'" font-size="24">botón</text>
+<text transform="matrix(1 0 0 1 623.0952 1966.9204)" fill="#555555" font-family="'ArialMT'" font-size="24" letter-spacing="3"> </text>
+<text transform="matrix(1 0 0 1 633.3394 1966.9204)" fill="#555555" font-family="'ArialMT'" font-size="24">“Análisis</text>
+<text transform="matrix(1 0 0 1 724.0303 1966.9204)" fill="#555555" font-family="'ArialMT'" font-size="24" letter-spacing="3"> </text>
+<text transform="matrix(1 0 0 1 734.2734 1966.9204)" fill="#555555" font-family="'ArialMT'" font-size="24">de </text>
+<text transform="matrix(1 0 0 1 112.4434 1995.7202)" fill="#555555" font-family="'ArialMT'" font-size="24">predio”,</text>
+<text transform="matrix(1 0 0 1 193.8184 1995.7202)" fill="#555555" font-family="'ArialMT'" font-size="24" letter-spacing="3"> </text>
+<text transform="matrix(1 0 0 1 203.9644 1995.7202)" fill="#555555" font-family="'ArialMT'" font-size="24">tiene</text>
+<text transform="matrix(1 0 0 1 256.0073 1995.7202)" fill="#555555" font-family="'ArialMT'" font-size="24" letter-spacing="3"> </text>
+<text transform="matrix(1 0 0 1 266.1533 1995.7202)" fill="#555555" font-family="'ArialMT'" font-size="24">además</text>
+<text transform="matrix(1 0 0 1 351.5366 1995.7202)" fill="#555555" font-family="'ArialMT'" font-size="24" letter-spacing="3"> </text>
+<text transform="matrix(1 0 0 1 361.6816 1995.7202)" fill="#555555" font-family="'ArialMT'" font-size="24">la</text>
+<text transform="matrix(1 0 0 1 380.3613 1995.7202)" fill="#555555" font-family="'ArialMT'" font-size="24" letter-spacing="3"> </text>
+<text transform="matrix(1 0 0 1 390.5073 1995.7202)" fill="#555555" font-family="'ArialMT'" font-size="24">opción</text>
+<text transform="matrix(1 0 0 1 461.2305 1995.7202)" fill="#555555" font-family="'ArialMT'" font-size="24" letter-spacing="3"> </text>
+<text transform="matrix(1 0 0 1 471.3765 1995.7202)" fill="#555555" font-family="'ArialMT'" font-size="24">de</text>
+<text transform="matrix(1 0 0 1 498.0713 1995.7202)" fill="#555555" font-family="'ArialMT'" font-size="24" letter-spacing="3"> </text>
+<text transform="matrix(1 0 0 1 508.2173 1995.7202)" fill="#555555" font-family="'ArialMT'" font-size="24">agregar</text>
+<text transform="matrix(1 0 0 1 590.9404 1995.7202)" fill="#555555" font-family="'ArialMT'" font-size="24" letter-spacing="3"> </text>
+<text transform="matrix(1 0 0 1 601.0864 1995.7202)" fill="#555555" font-family="'ArialMT'" font-size="24">una</text>
+<text transform="matrix(1 0 0 1 641.1294 1995.7202)" fill="#555555" font-family="'ArialMT'" font-size="24" letter-spacing="3"> </text>
+<text transform="matrix(1 0 0 1 651.2744 1995.7202)" fill="#555555" font-family="'ArialMT'" font-size="24">oveja</text>
+<text transform="matrix(1 0 0 1 708.6494 1995.7202)" fill="#555555" font-family="'ArialMT'" font-size="24" letter-spacing="3"> </text>
+<text transform="matrix(1 0 0 1 718.7954 1995.7202)" fill="#555555" font-family="'ArialMT'" font-size="24">a</text>
+<text transform="matrix(1 0 0 1 732.1436 1995.7202)" fill="#555555" font-family="'ArialMT'" font-size="24" letter-spacing="3"> </text>
+<text transform="matrix(1 0 0 1 742.2896 1995.7202)" fill="#555555" font-family="'ArialMT'" font-size="24">la </text>
+<text transform="matrix(1 0 0 1 112.4434 2024.521)" fill="#555555" font-family="'ArialMT'" font-size="24">base</text>
+<text transform="matrix(1 0 0 1 164.4863 2024.521)" fill="#555555" font-family="'ArialMT'" font-size="24"> </text>
+<text transform="matrix(1 0 0 1 172.9004 2024.521)" fill="#555555" font-family="'ArialMT'" font-size="24">de</text>
+<text transform="matrix(1 0 0 1 199.5952 2024.521)" fill="#555555" font-family="'ArialMT'" font-size="24"> </text>
+<text transform="matrix(1 0 0 1 208.0093 2024.521)" fill="#555555" font-family="'ArialMT'" font-size="24">datos</text>
+<text transform="matrix(1 0 0 1 266.7202 2024.521)" fill="#555555" font-family="'ArialMT'" font-size="24"> </text>
+<text transform="matrix(1 0 0 1 275.1343 2024.521)" fill="#555555" font-family="'ArialMT'" font-size="24">del</text>
+<text transform="matrix(1 0 0 1 307.1616 2024.521)" fill="#555555" font-family="'ArialMT'" font-size="24"> </text>
+<text transform="matrix(1 0 0 1 315.5752 2024.521)" fill="#555555" font-family="'ArialMT'" font-size="24">predio</text>
+<text transform="matrix(1 0 0 1 382.2905 2024.521)" fill="#555555" font-family="'ArialMT'" font-size="24"> </text>
+<text transform="matrix(1 0 0 1 390.7046 2024.521)" fill="#555555" font-family="'ArialMT'" font-size="24">o</text>
+<text transform="matrix(1 0 0 1 404.0513 2024.521)" fill="#555555" font-family="'ArialMT'" font-size="24"> </text>
+<text transform="matrix(1 0 0 1 412.4653 2024.521)" fill="#555555" font-family="'ArialMT'" font-size="24">también</text>
+<text transform="matrix(1 0 0 1 497.8486 2024.521)" fill="#555555" font-family="'ArialMT'" font-size="24"> </text>
+<text transform="matrix(1 0 0 1 506.2622 2024.521)" fill="#555555" font-family="'ArialMT'" font-size="24">buscar</text>
+<text transform="matrix(1 0 0 1 578.2974 2024.521)" fill="#555555" font-family="'ArialMT'" font-size="24"> </text>
+<text transform="matrix(1 0 0 1 586.7114 2024.521)" fill="#555555" font-family="'ArialMT'" font-size="24">una</text>
+<text transform="matrix(1 0 0 1 626.7544 2024.521)" fill="#555555" font-family="'ArialMT'" font-size="24"> </text>
+<text transform="matrix(1 0 0 1 635.1685 2024.521)" fill="#555555" font-family="'ArialMT'" font-size="24">oveja</text>
+<text transform="matrix(1 0 0 1 692.5435 2024.521)" fill="#555555" font-family="'ArialMT'" font-size="24"> </text>
+<text transform="matrix(1 0 0 1 700.9575 2024.521)" fill="#555555" font-family="'ArialMT'" font-size="24">medi</text>
+<text transform="matrix(1 0 0 1 752.9766 2024.521)" fill="#555555" font-family="'ArialMT'" font-size="24">-</text>
+<text transform="matrix(1 0 0 1 112.4434 2053.3218)" fill="#555555" font-family="'ArialMT'" font-size="24">ante su ID.</text>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="1190.44" y1="1911.127" x2="1210.196" y2="1911.127"/>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="1190.44" y1="1918.533" x2="1210.196" y2="1918.533"/>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="1190.44" y1="1927.127" x2="1210.196" y2="1927.127"/>
+<rect x="1180.897" y="1901.871" fill="none" stroke="#000000" stroke-miterlimit="10" width="40.298" height="33.846"/>
+</svg>
